@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>QPad Ressources/about.png</file>
+        <file>QPad Ressources/copy.png</file>
+        <file>QPad Ressources/cut.png</file>
+        <file>QPad Ressources/new.png</file>
+        <file>QPad Ressources/open.png</file>
+        <file>QPad Ressources/paste.png</file>
+        <file>QPad Ressources/redo.png</file>
+        <file>QPad Ressources/save.png</file>
+        <file>QPad Ressources/saveas.png</file>
+        <file>QPad Ressources/undo.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
